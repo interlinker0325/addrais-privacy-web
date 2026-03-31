@@ -1,0 +1,4 @@
+node_modules/
+dist/
+receiver/logs/
+config.bat
